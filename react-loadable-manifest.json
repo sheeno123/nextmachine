@@ -1,0 +1,12 @@
+{
+  "_app.tsx -> ../components/WalletConnection/WalletConnectionProvider": {
+    "id": 7354,
+    "files": [
+      "static/chunks/06f47d9b.a53b37213060631675d5.js",
+      "static/chunks/5a68a36d.0baae6afb16f92f57d69.js",
+      "static/chunks/526-16c86374b0131011e28c.js",
+      "static/chunks/458.a4a2b07024b58a0ba8ae.js",
+      "static/chunks/154.19cf41de75b9724976e3.js"
+    ]
+  }
+}
